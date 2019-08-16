@@ -1,2 +1,3 @@
-hola esto es una prueba
-nueva línea de código 1
+arr.forEach(function(item){
+	console.log(item);
+});
